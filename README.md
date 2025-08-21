@@ -1,4 +1,4 @@
-# Coinly使用说明文档
+# Numi使用说明文档
 
 ```markdown
 #
