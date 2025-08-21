@@ -1,4 +1,4 @@
-# Numi使用说明文档
+# Nexa使用说明文档
 
 ```markdown
 #
