@@ -1,6 +1,6 @@
 # Summary
 
-* [欢迎使用Nexa1](README.md)
+* [欢迎使用Nexa](README.md)
 * [产品概述](./产品概述/rk.md)
 * [支持的链及加密货币](./业务流程/proess.md)
 
