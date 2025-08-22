@@ -2,7 +2,7 @@
 
 ## 发送交易
 
-1. 选择进行转账的钱包，点击“**发送**”按钮。请注意，您使用的设备必须具备分片功能才能完成交易授权，详细信息请参考[**分片管理**](https://support.Nexa.com/Nexa-wallet-guide/zh-cn/wallet_and_transaction/shard)。
+1. 选择进行转账的钱包，点击“**发送**”按钮。请注意，您使用的设备必须具备分片功能才能完成交易授权。
 
    <figure>     <img          src="../images/Snipaste_2025-08-21_09-35-45.png"          width="900"          height="auto"     > </figure>
 
