@@ -1,0 +1,20 @@
+{
+  "styles": {
+    "website": "styles/website.css"
+  },
+  "plugins": ["accordion", "expandable-chapters"],
+  "pluginsConfig": {
+    "accordion": {
+      "selectors": {
+        ".markdown-section h2": {
+          "content": ".markdown-section ul"
+        }
+      }
+    },
+    "expandable-chapters": {
+      "chapterDepth": 3,
+      "entry": true,
+      "arrow": "toggle"
+    }
+  }
+}
