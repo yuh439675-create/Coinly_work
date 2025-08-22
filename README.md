@@ -1,4 +1,4 @@
-# Coinly使用说明文档1
+# Coinly使用说明文档
 ```markdown
 #请点击下方
 ```
