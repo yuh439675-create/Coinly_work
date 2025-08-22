@@ -1,7 +1,0 @@
-# 如何设置审批流程？
-
-目前审批流程需要通过策略中心进行设置，用户可配置在特定条件下，出款必须经过审批流程后才能进行签名。
-
-此功能为收费功能，仅对商业版和企业版团队开放。如需开通此功能，请参考[这里](https://support.Nexa.com/Nexa-wallet-guide/zh-cn/accountmanagement/bill_and_payment/feature_activation)。如已开通功能，可参考[策略中心](https://support.Nexa.com/Nexa-wallet-guide/zh-cn/risk_management/policy_engine)进行相关设置。
-
-<figure>     <img          src="../images/Snipaste_2025-08-21_16-05-56.png"          width="900"          height="auto"     > </figure>
