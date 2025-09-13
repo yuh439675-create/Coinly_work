@@ -26,7 +26,7 @@ details li {
 }
 
 /* 一级目录加粗+放大 */
-.sidebar-inner .menu .menu-item-level-1 .menu-link {
+.span {
   font-weight: bold;
   font-size: 16px;
   margin: 8px 0; /* 上下间距，避免拥挤 */
