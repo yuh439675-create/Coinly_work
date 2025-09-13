@@ -24,3 +24,10 @@ details ul {
 details li {
   margin: 5px 0;
 }
+
+/* 一级目录加粗+放大 */
+.span {
+  font-weight: bold;
+  font-size: 16px;
+  margin: 8px 0; /* 上下间距，避免拥挤 */
+}

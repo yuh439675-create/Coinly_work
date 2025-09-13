@@ -10,7 +10,7 @@ Nexa提供标准化API，允许企业将我们的钱包无缝集成到他们的�
 
 ## 2. 转出（提现或支付 ）
 
-<figure><img src="https://2287475285-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FSdMhazXkh30OBfLly0nW%2Fuploads%2FEGTG1wzLmHNILOkkVjDi%2Fimage.png?alt=media&#x26;token=39dd66e7-906e-4c22-8628-9c937e708e7e" alt=""><figcaption></figcaption></figure>
+<figure><img src="../images/Snipaste_2025-09-13_17-39-50.png" alt=""><figcaption></figcaption></figure>
 
 企业转账或提现操作必须通过Nexa企业钱包进行。 为确保请求安全，需请求Nexa API服务器的IP地址并将其添加到IP白名单中。Nexa API仅允许白名单中的IP地址访问。
 
