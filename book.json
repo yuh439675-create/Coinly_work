@@ -1,20 +1,14 @@
 {
-  "styles": {
-    "website": "styles/website.css"
-  },
-  "plugins": ["accordion", "expandable-chapters"],
+  "plugins": ["expandable-chapters"], 
   "pluginsConfig": {
-    "accordion": {
-      "selectors": {
-        ".markdown-section h2": {
-          "content": ".markdown-section ul"
-        }
-      }
-    },
     "expandable-chapters": {
       "chapterDepth": 3,
       "entry": true,
-      "arrow": "toggle"
+      "arrow": {
+  "collapsed": "➕",  
+  "expanded": "➖"    
+},
+      "collapsed": true
     }
   }
 }
