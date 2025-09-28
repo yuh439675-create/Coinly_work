@@ -17,7 +17,7 @@
 
    <figure><img src="../images/Snipaste_2025-08-20_15-01-19.png" alt=""><figcaption></figcaption></figure>
 
-2. 系统生成12~15个助记词，请用纸笔准确抄写并妥善保管。<mark style="color:green;">**助记词代表了钱包资产的所有权，非常重要，请妥善保管。Nexa系统不会为用户记录助记词，一旦遗失助记词可能会导致资产遗失，平台亦无法替用户找回。**</mark>完成记录后，点击继续进入下一步。<br>
+2. 系统生成12~15个助记词，请用纸笔准确抄写并妥善保管。<mark style="color:green;">**助记词代表了钱包资产的所有权，非常重要，请妥善保管。Coinly系统不会为用户记录助记词，一旦遗失助记词可能会导致资产遗失，平台亦无法替用户找回。**</mark>完成记录后，点击继续进入下一步。<br>
 
    <figure><img src="../images/Snipaste_2025-08-20_15-09-54.png" alt=""><figcaption></figcaption></figure>
 

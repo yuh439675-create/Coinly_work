@@ -1,6 +1,6 @@
 # 充值团队帐户
 
-**请注意Nexa账户费用**<mark style="color:green;">**仅适用于以下情况**</mark>**：**&#x20;
+**请注意Coinly账户费用**<mark style="color:green;">**仅适用于以下情况**</mark>**：**&#x20;
 
 * 购买团队方案及团队的附加功能
 * 充值到您的加密卡

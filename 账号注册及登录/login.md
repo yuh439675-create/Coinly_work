@@ -1,7 +1,7 @@
 # 帐号注册及登录
 
-1. 注册Nexa账户 <br>
-   安装成功后，打开Nexa应用程序。首次打开时，系统会提示您“创建账户”。点击右上角的“语言”菜单可切换语言。
+1. 注册Coinly账户 <br>
+   安装成功后，打开Coinly应用程序。首次打开时，系统会提示您“创建账户”。点击右上角的“语言”菜单可切换语言。
 
    <figure>
      <img 
@@ -32,7 +32,7 @@
    IOS下载链接：[IOS Google Authenticator](https://apps.apple.com/hk/app/google-authenticator/id388497605)<br>
    Android下载链接：[Android Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2\&pli=1)<br>
 
-5. 请打开Google验证器PC版 -> 点击图标<img src="../images/qianbi_01.png" alt="" data-size="line" width="20" height="15">-><img src="../images/tianjia_01.png" alt="" data-size="line" width="20" height="15"  >以添加新密钥 -> 选择您想绑定密钥的方法 -> 添加。然后返回Nexa，点击「校验」。<br>
+5. 请打开Google验证器PC版 -> 点击图标<img src="../images/qianbi_01.png" alt="" data-size="line" width="20" height="15">-><img src="../images/tianjia_01.png" alt="" data-size="line" width="20" height="15"  >以添加新密钥 -> 选择您想绑定密钥的方法 -> 添加。然后返回Coinly，点击「校验」。<br>
 
    <figure>
      <img 
@@ -44,7 +44,7 @@
    </figure>
 
 6. 设置交易密码 <br>
-   首次登录Nexa系统时，您需要为账户设置一个交易密码。请输入由8-16个字母和数字组成的交易密码，然后点击确认。（请妥善保管您的交易密码。）<br>
+   首次登录Coinly系统时，您需要为账户设置一个交易密码。请输入由8-16个字母和数字组成的交易密码，然后点击确认。（请妥善保管您的交易密码。）<br>
 
    <figure>
      <img 

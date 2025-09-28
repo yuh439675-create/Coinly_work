@@ -1,6 +1,6 @@
 #  支持的链及加密货币
 
-* Nexa采用 **AnyChain**，全球首个完全使用Rust语言编写的开源多链交易构造库。
+* Coinly采用 **AnyChain**，全球首个完全使用Rust语言编写的开源多链交易构造库。
 * 以下是我们支持的协议和代币：
 
 | Series     | Protocols           | Tokens                                                       |
