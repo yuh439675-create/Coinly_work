@@ -77,7 +77,7 @@
 
 <figure><img src="../images/Snipaste_2025-08-20_17-10-09.png" alt=""><figcaption></figcaption></figure>
 
-点击“立即支付”完成订单。请确保您的账户余额充足，您可以参考“[充值团队账户](recharge_your_account)”获取充值指南。
+点击“立即支付”完成订单。请确保您的账户余额充足，您可以参考“[充值团队账户](../充值团队帐户/recharge.md)”获取充值指南。
 
 ## 为团队版本续费
 

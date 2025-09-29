@@ -30,7 +30,7 @@
 
    请确保您下载的是官方版本，而非假冒应用。<br>
    IOS下载链接：[IOS Google Authenticator](https://apps.apple.com/hk/app/google-authenticator/id388497605)<br>
-   Android下载链接：[Android Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2\&pli=1)<br>
+   Android下载链接：[Android Google Authenticator](https://play.google.com/store/search?q=%E8%B0%B7%E6%AD%8C%E7%99%BB%E5%BD%95%E5%99%A8&c=apps)<br>
 
 5. 请打开Google验证器PC版 -> 点击图标<img src="../images/qianbi_01.png" alt="" data-size="line" width="20" height="15">-><img src="../images/tianjia_01.png" alt="" data-size="line" width="20" height="15"  >以添加新密钥 -> 选择您想绑定密钥的方法 -> 添加。然后返回Coinly，点击「校验」。<br>
 
