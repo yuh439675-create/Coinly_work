@@ -13,3 +13,4 @@ Coinly提供标准化API，允许企业将我们的钱包无缝集成到他们�
 <figure><img src="../images/Snipaste_2025-09-13_17-39-50.png" alt=""><figcaption></figcaption></figure>
 
 企业转账或提现操作必须通过Coinly企业钱包进行。 为确保请求安全，需请求Coinly API服务器的IP地址并将其添加到IP白名单中。Coinly API仅允许白名单中的IP地址访问。
+
